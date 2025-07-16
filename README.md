@@ -30,7 +30,7 @@ Sistema de gestión de pedidos construido con **Spring Boot 3.5.3**, autenticaci
 ### 📥 Clonar el repositorio
 
     ```bash
-    git clone https://github.com/francode-taype/order-system.git
+    git clone https://github.com/fran-codev/order-system.git
     cd order-system
 
 ⚙️ Configuración del entorno
